@@ -3,7 +3,8 @@
 그래픽스팀 5/6 과제 리포
 
 ## 과제 내용
-1. [ShaderQuest.shader](https://github.com/XREAL-Graphics-Archive/ShaderQuest/blob/master/Assets/ShaderQuest/ShaderQuest.shader) 파일의 스켈레톤 코드에서 다음 부분을 찾아 채워주세요. ***나머지 부분은 수정하지 마세요!!!***
+### 1. 노말 매핑
+* [ShaderQuest.shader](https://github.com/XREAL-Graphics-Archive/ShaderQuest/blob/master/Assets/ShaderQuest/ShaderQuest.shader) 파일의 스켈레톤 코드에서 다음 부분을 찾아 채워주세요. ***나머지 부분은 수정하지 마세요!!!***
 ```hlsl
   // declare variables here
   ///////////////////////////////////////////////////
@@ -30,7 +31,7 @@
   ////////////////// ADD CODE HERE //////////////////
   ///////////////////////////////////////////////////
 ```
-2. Unity상의 결과를 아래 사진 처럼 찍어서 업로드 해주세요. *(똑같을 필요는 없고 비슷하기만 하면 됩니다)*
+* Unity상의 결과를 아래 사진 처럼 찍어서 업로드 해주세요. *(똑같을 필요는 없고 비슷하기만 하면 됩니다)*
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61895947/235045533-1a2484f6-b63e-412a-9511-b507d89eccb1.jpeg" width="711" height="400">
  <p/>
