@@ -3,7 +3,7 @@
 그래픽스팀 5/6 과제 리포
 
 ## 과제 내용
-### 1. 노말 매핑
+### 노말 매핑
 * [ShaderQuest.shader](https://github.com/XREAL-Graphics-Archive/ShaderQuest/blob/master/Assets/ShaderQuest/ShaderQuest.shader) 파일의 스켈레톤 코드에서 다음 부분을 찾아 채워주세요. ***나머지 부분은 수정하지 마세요!!!***
 ```hlsl
   // declare variables here
@@ -46,11 +46,6 @@
 
 > **Note**<br>
 > Normal map의 rgb 값의 범위는 [0,1]인데, [-1,1]로 만들어주셔야 합니다!
-
-## 선택 구현사항
-Height map 적용 (height map 적용에 한해서 다른 코드 수정하셔도 됩니다)
-
-*하단의 참고 자료(Parallax Mapping)를 확인해주세요*
 
 ## 추가 자료
 ### Normal Map
@@ -110,5 +105,4 @@ Height map 적용 (height map 적용에 한해서 다른 코드 수정하셔도 
 * [노말맵 유니티 매뉴얼](https://docs.unity3d.com/kr/2021.3/Manual/StandardShaderMaterialParameterNormalMap.html)
 * [노말맵 샘플링](https://darkcatgame.tistory.com/84)
 * [LearnOpenGL: Normal Mapping](https://learnopengl.com/Advanced-Lighting/Normal-Mapping)
-* [LearnOpenGL: Parallax Mapping](https://learnopengl.com/Advanced-Lighting/Parallax-Mapping)
 * [Catlike Coding: Rendering 6](https://catlikecoding.com/unity/tutorials/rendering/part-6/)
